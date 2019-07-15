@@ -1,14 +1,14 @@
-age in years
-sex(1 = male; 0 = female)
-cpchest pain type
-trestbpsresting blood pressure (in mm Hg on admission to the hospital)
-cholserum cholestoral in mg/dl
-fbs(fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)
-restecgresting electrocardiographic results
-thalachmaximum heart rate achieved
-exangexercise induced angina (1 = yes; 0 = no)
-oldpeakST depression induced by exercise relative to rest
-slopethe slope of the peak exercise ST segment
-canumber of major vessels (0-3) colored by flourosopy
-thal3 = normal; 6 = fixed defect; 7 = reversable defect
-target1 or 0
+usia : umur dalam tahun
+jenis kelamin : (1 = laki-laki; 0 = perempuan)
+cp : nyeri pada dada
+trestbps : mengukur tekanan darah (dalam mmHg saat masuk rumah sakit)
+chol : serum kolseroral dalam mg/dl
+fbs : (fasting blood sugar > 120 mg/dl) (1 = benar; 0 = salah)
+restecg : hasil elektrokardiografi istirahat
+thalach : denyut jantung maksimum terukur
+exang : latihan dalam melindungi angina (1 = ya; 0 = tidak)
+oldpeak : ST depression disebabkan terlalu sering berolaraga tanpa istirahat
+slope : kemiringan segmen ST saat berolaraga
+ca : banyaknya vessels utama yang berwarna (0-3) dari hasil flourosopy
+thal : 3 = normal; 6 = cacat tetap; 7 = cacat sementara
+target : 1 atau 0
